@@ -41,5 +41,8 @@ In this study, if you want to run the model for 2016-2019, you need to copy the 
    (4) ***Max_Rootdepth.m***: R_depth (rooting depth),  Elmn_Lnth<=Tot_Depth-1 (i.e., eliminating the root at the surface 1cm depth, where the 1 can be varied across different site).
    
    (5) ***Root_properties.m***: root_den (Root density), R_C (Ratio Carbon-Dry Matter in root). This function is called only when the root growth module is activated in the *STEMMUS-SOCPE.m*.
-    
+   
+</br>
+
+Same rules are applied in **"\STEMMUS-SCOPE_Yanchi\Grass_STEMMUS-SCOPE\"**. The output fluxes from shrubland and grassland scenarios are aggregated in folder **2_Cal_Val**.
 
